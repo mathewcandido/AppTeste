@@ -1,0 +1,17 @@
+[
+    {      "id":1,
+          "title": "Caneca 01",
+          "subTitle": "lorin ipsun lorin ipsun",
+          "avatar": "assets/img01.jpg"
+    },
+    {     "id":2,
+          "title": "Caneca 02",
+          "subTitle": "lorin ipsun lorin ipsun",
+          "avatar": "assets/img02.jpg"
+    },
+    {      "id":3,
+          "title": "Caneca 03",
+          "subTitle": "lorin ipsun lorin ipsun",
+          "avatar": "assets/img03.jpg"
+    }
+]

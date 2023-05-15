@@ -1,0 +1,78 @@
+
+    .title {
+        font-size: 18px;
+        font-weight: 300;
+        text-align: center;
+        margin-top: 25px;
+    }
+    
+    .text {
+        color: initial;
+        font-size: 14px;
+        text-align: center;
+        margin: 20px auto 0 auto;
+    
+    }
+    
+    .boxCode {
+        text-align: center;
+        margin: 50px auto 50px auto;
+        width: 200px;
+        height: 230px;
+    
+    
+    }
+    
+    .imgCode{
+        width: 100%;
+        height: 80%;
+    }
+    
+    .code {
+        color: rgba(204, 204, 204, 0.9);
+        font-size: 12px;
+    }
+    
+    
+    .cardMother{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        margin: 0 auto;
+     
+      }
+      .label{
+        font-size: 16px;
+        font-weight: 300;
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 10px;
+      }
+      .box{
+        display: flex;
+        width: 88%;
+        padding: 15px 0 15px 0;
+        background-color: rgb(215, 235, 235);
+        text-align: center;
+        margin: 0 auto;
+        border-radius: 8px;
+      
+      }
+      .info{
+        margin-left: 19px;
+      }
+      .h2{
+        font-size: 18px;
+        font-weight: 300;
+        text-align: left;
+      }
+      .p{
+        color: initial;
+        font-size: 12px;
+        
+      }
+      .img{
+        width: 40px;
+        padding-left: 10px;
+      }

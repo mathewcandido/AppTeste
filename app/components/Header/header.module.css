@@ -1,0 +1,28 @@
+
+.header{
+    width: 100%;
+    max-width: 768px;
+    height: 42px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 1px solid rgba(230, 211, 211, 0.5);
+}
+
+.h2{
+    color: rgb(33, 33, 230);
+    text-align: center;
+    font-size: 18px;
+    padding-right: 30%;
+    font-weight: 300;
+}
+.header_icon{
+    width: 15px;
+    height: 12px;
+    position: relative;
+    padding-right: 5%;
+    padding-bottom: 10px;
+    color: rgb(33, 33, 230);
+}
